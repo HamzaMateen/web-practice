@@ -1,0 +1,109 @@
+body {
+    background-color: #6b99b4;
+    color: white;
+}
+
+h1,
+h2,
+h3 {
+    background-color: white;
+    color: #319bd8;
+    margin: 0;
+    font-family: "Courier New";
+    font-weight: Bold;
+}
+
+h4 {
+    background-color: white;
+    color: #ff0101;
+    font-family: "Courier New";
+    margin-bottom: 0;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+img {
+    width: 80px;
+    height: 70px;
+    align-content: center;
+}
+
+ul {
+    list-style-type: none;
+    margin-top: 0.32%;
+    margin-bottom: 0.32%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.container {
+    width: 95%;
+    padding: 1.05%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#aboutMe {
+    font-family: 'Trebuchet MS', Times, serif;
+    word-break: break-all;
+    text-align: justify;
+}
+
+#header3 {
+    text-align: center;
+}
+
+#programming,
+#databases,
+#maths {
+    width: 26.32%;
+    text-align: left;
+    float: left;
+    font-family: "Courier";
+}
+
+.projects {
+    clear: both;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.projects h3 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.projects #block1 {
+    float: left;
+    text-align: left;
+}
+
+.projects #block2 {
+    float: left;
+    text-align: center;
+}
+
+#contact {
+    clear: both;
+    background-color: white;
+}
+
+#contact img {
+    width: 5.26%;
+    height: 5.26%;
+}
+
+#contact h3 {color: #ff0101;}
+
+#footer {
+    background-color: #0e76a8;
+    color: white;
+    text-align: right;
+    font-variant: small-caps;
+    font-family: Helvetica, Arial, sans-serif;
+}
